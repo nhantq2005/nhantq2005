@@ -5,4 +5,4 @@
   <li><strong>💼 Major: </strong>Information Technology</li>
 </ul>
 <h3>Contact with me:</h3>
-<a href="https://www.linkedin.com/in/nhan-tran-quoc-23b6a52a8/" target="blank"><img src="linkedin.png"></a>
+<a href="https://www.linkedin.com/in/nhan-tran-quoc-23b6a52a8/" target="blank"><img src="linkedin.png" width="100"></a>
