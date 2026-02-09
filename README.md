@@ -1,25 +1,24 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
-  <h1>Hi there, I'm Nhan 👋</h1>
-  <p>A passionate IT Student from Vietnam 🇻🇳</p>
-</div>
+  <h1>Hi, I'm Nhan 👋</h1>  
+  </div>
 
----
+<hr/>
 
 ### 🧐 About Me
 
 - 🎓 **Education:** Ho Chi Minh City Open University (OU)
 - 💼 **Major:** Information Technology
-- 🔭 **I’m currently working on:** Web Development & Mobile Apps
-- 🌱 **I’m currently learning:** Python, React Native, Data Structures
-- ✉️ **Contact:** [nhan.tq2005@gmail.com](mailto:nhan.tq2005@gmail.com)
 
 ### 🛠 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
@@ -29,11 +28,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nhantq2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhantq2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
-
-<br/>
 
 ### 🤝 Connect with me
 
