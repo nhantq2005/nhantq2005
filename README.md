@@ -34,12 +34,52 @@
 </p>
 
 ---
+<!-- 
 
 <h2 align="center">✨ Projects & Highlights</h2>
 
-<p align="center">
-  <i>Coming soon: My best projects will be showcased here!</i>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <a href="https://github.com/nhantq2005/awesome-django-blog" target="_blank">
+          <img src="https://img.shields.io/badge/Django%20Blog-092E20?style=for-the-badge&logo=django&logoColor=white"/><br/>
+          <b>Awesome Django Blog</b>
+        </a>
+        <br/>
+        <sub>Full-featured blog platform with authentication, comments, and admin dashboard.</sub>
+      </td>
+      <td align="center" width="250">
+        <a href="https://github.com/nhantq2005/react-native-todo" target="_blank">
+          <img src="https://img.shields.io/badge/React%20Native%20Todo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
+          <b>React Native Todo</b>
+        </a>
+        <br/>
+        <sub>Cross-platform mobile app for managing daily tasks with a beautiful UI.</sub>
+      </td>
+      <td align="center" width="250">
+        <a href="https://github.com/nhantq2005/kotlin-weather-app" target="_blank">
+          <img src="https://img.shields.io/badge/Kotlin%20Weather%20App-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/><br/>
+          <b>Kotlin Weather App</b>
+        </a>
+        <br/>
+        <sub>Modern weather app using OpenWeather API, built with Kotlin for Android.</sub>
+      </td>
+    </tr>
+  </table>
+</div> -->
+
+
+---
+
+<h2 align="center">🎓 Certificates</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Samsung%20Innovation%20Campus%20AI-1428A0?style=for-the-badge&logo=samsung&logoColor=white"/>
+  <br/>
+  <b>AI Certificate</b> &mdash; Samsung Innovation Campus<br/>
+  <sub>Completed intensive training in Artificial Intelligence fundamentals and applications.</sub>
+</div>
 
 ---
 
